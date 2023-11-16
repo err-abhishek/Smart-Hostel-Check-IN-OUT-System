@@ -63,4 +63,4 @@ jobs:
           app-name: 'nitphmc'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AAC834DB04CE44F1A168B93C07A70980 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A8C3AD9505294426A32566524E858DA4 }}
